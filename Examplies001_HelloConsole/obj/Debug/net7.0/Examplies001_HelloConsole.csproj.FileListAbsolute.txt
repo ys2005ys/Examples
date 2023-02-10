@@ -1,0 +1,15 @@
+C:\Users\ys200\OneDrive\Pulpit\Examples\Examplies001_HelloConsole\bin\Debug\net7.0\Examplies001_HelloConsole.exe
+C:\Users\ys200\OneDrive\Pulpit\Examples\Examplies001_HelloConsole\bin\Debug\net7.0\Examplies001_HelloConsole.deps.json
+C:\Users\ys200\OneDrive\Pulpit\Examples\Examplies001_HelloConsole\bin\Debug\net7.0\Examplies001_HelloConsole.runtimeconfig.json
+C:\Users\ys200\OneDrive\Pulpit\Examples\Examplies001_HelloConsole\bin\Debug\net7.0\Examplies001_HelloConsole.dll
+C:\Users\ys200\OneDrive\Pulpit\Examples\Examplies001_HelloConsole\bin\Debug\net7.0\Examplies001_HelloConsole.pdb
+C:\Users\ys200\OneDrive\Pulpit\Examples\Examplies001_HelloConsole\obj\Debug\net7.0\Examplies001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\ys200\OneDrive\Pulpit\Examples\Examplies001_HelloConsole\obj\Debug\net7.0\Examplies001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ys200\OneDrive\Pulpit\Examples\Examplies001_HelloConsole\obj\Debug\net7.0\Examplies001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\ys200\OneDrive\Pulpit\Examples\Examplies001_HelloConsole\obj\Debug\net7.0\Examplies001_HelloConsole.AssemblyInfo.cs
+C:\Users\ys200\OneDrive\Pulpit\Examples\Examplies001_HelloConsole\obj\Debug\net7.0\Examplies001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\ys200\OneDrive\Pulpit\Examples\Examplies001_HelloConsole\obj\Debug\net7.0\Examplies001_HelloConsole.dll
+C:\Users\ys200\OneDrive\Pulpit\Examples\Examplies001_HelloConsole\obj\Debug\net7.0\refint\Examplies001_HelloConsole.dll
+C:\Users\ys200\OneDrive\Pulpit\Examples\Examplies001_HelloConsole\obj\Debug\net7.0\Examplies001_HelloConsole.pdb
+C:\Users\ys200\OneDrive\Pulpit\Examples\Examplies001_HelloConsole\obj\Debug\net7.0\Examplies001_HelloConsole.genruntimeconfig.cache
+C:\Users\ys200\OneDrive\Pulpit\Examples\Examplies001_HelloConsole\obj\Debug\net7.0\ref\Examplies001_HelloConsole.dll
